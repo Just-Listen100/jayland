@@ -1,0 +1,6 @@
+{
+  "name": "PROP-X Pro Odds Terminal & Betting Engine",
+  "description": "Institutional real-time sports betting terminal with multi-leg parlays, dynamic auto-cashout hedging, Kelly criterion staking, and atomic ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
